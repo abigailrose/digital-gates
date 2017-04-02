@@ -9,7 +9,7 @@ How to use:
 5. Open your command line
 6. If you are using a Mac (or Linux, or anything with a Bash shell):
 
-(This assumes you have put the folder in your Downloads directory, if you put it somwhere else, then replace the step where you navigate to the Dowloads directory with a step that will navigate you to where you put it. If you don't know how to do that, just put the folder in the Downloads directory and follow these steps.)
+(This assumes you have put the folder in your Downloads directory, if you put it somewhere else, then replace the step where you navigate to the Downloads directory with a step that will navigate you to where you put it. If you don't know how to do that, just put the folder in the Downloads directory and follow these steps.)
 
 a. type in `cd Downloads`
 
