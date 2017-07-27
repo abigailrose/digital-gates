@@ -33,5 +33,7 @@ b. If you would prefer to use Bash (I used Bash to test/compile this), here are 
   
 Troubleshooting:
 -If the javac and java commands aren't working, type in `java -version` to see if you have java installed. If you do not have java installed, you can just google "install jdk" and go to the Oracle website to do so.
--Feel free to raise an issue. Please specify your operating system and Java version (also, if you're using a non-default shell (if you don't know what that means, you do not so don't worry about it), tell me that too).
+
+-Feel free to raise an issue. Please specify your operating system and Java version (also, if you're using a non-default shell (if you don't know what that means, you are not so don't worry about it), tell me that too).
+
 -If you don't have access to your command line (TCAPS...), you can download a bash shell here: https://www.gnu.org/software/bash/ pop it on a flash drive, and add it to your Windows computer.
